@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631802325294.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1739658232",
+    "id" : "E9D1C0AF",
+    "lastKnownWriteTime" : 1631811081,
+    "last_content_update" : 1631811081190,
+    "path" : "C:/Users/bmond/Desktop/Allowing for profit/Losses Simulation.R",
+    "project_path" : "Losses Simulation.R",
+    "properties" : {
+        "cursorPosition" : "15,9",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1630628903669.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "196866671",
+    "id" : "8814CFA6",
+    "lastKnownWriteTime" : 1630631586,
+    "last_content_update" : 1630631586999,
+    "path" : "C:/Users/bmond/Desktop/Allowing for profit/Colors.R",
+    "project_path" : "Colors.R",
+    "properties" : {
+        "cursorPosition" : "42,30",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

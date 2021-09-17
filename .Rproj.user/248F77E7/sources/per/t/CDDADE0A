@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1630631617591.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2748442169",
+    "id" : "CDDADE0A",
+    "lastKnownWriteTime" : 1630534374,
+    "last_content_update" : 1630534374,
+    "path" : "~/Actuary/extreme-value-distributions/Weibull/PDF.Weibull.r",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "162,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
